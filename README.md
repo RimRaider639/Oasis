@@ -7,7 +7,7 @@
 
 **Dark mode supported | Responsive**
 
-[🔗 Deployed Link](https://oasis-admin-panel.netlify.app/)
+[🔗 Deployed Link](https://oasis-backend.vercel.app/)
 
 ## Log in
 
