@@ -33,7 +33,7 @@ Indicates invalid credentials, error & success. Doesn't allow submitting empty f
 - Add product (pop up)
 - Reset, pagination
 
-![image](https://user-images.githubusercontent.com/112859531/236055004-168f190d-b630-4edb-becf-cd08ea3b6425.png)
+![image](https://user-images.githubusercontent.com/112859531/236055154-839d23c2-3712-49b0-af8d-33b4598f8163.png)
 ![inventory_dark](https://user-images.githubusercontent.com/112859531/235909558-aee50271-00c8-4254-8e36-a62670afeac3.png)
 
 ## Edit Product
