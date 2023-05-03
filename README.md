@@ -29,10 +29,14 @@ Indicates invalid credentials, error & success. Doesn't allow submitting empty f
 - Sort by mrp, price, discount & stock (toggle ascending & descending order)
 - Filter by category. Local search and sorting within the category
 - Delete products
-- Edit button will redirect to product page
+- Edit button will redirect to edit product page
 - Add product (pop up)
 - Reset, pagination
 
 ![inventory_light](https://user-images.githubusercontent.com/112859531/235909300-4015ffff-182f-4e75-998c-03d1b9f9118b.png)
 ![inventory_dark](https://user-images.githubusercontent.com/112859531/235909558-aee50271-00c8-4254-8e36-a62670afeac3.png)
+
+## Edit Product
+### Add or remove pictures
+
 
