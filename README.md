@@ -62,5 +62,18 @@ Indicates invalid credentials, error & success. Doesn't allow submitting empty f
 
 ![image](https://user-images.githubusercontent.com/112859531/236053710-e29012f9-c583-4a96-9636-df0be72e9d26.png)
 
+- Changes will only reflect if clicked on save changes
+- You can also reset everything to the previous saved state
+
+## Customers
+
+- Delete a user
+- Search a user by their name or PID
+
+![image](https://user-images.githubusercontent.com/112859531/236054312-197cbf6a-403e-4287-b00d-ff85dd50c535.png)
+
+## Edit Profile
+
+![image](https://user-images.githubusercontent.com/112859531/236054563-e1c1bc66-fce8-417b-8c88-bc5dacedb573.png)
 
 
