@@ -37,6 +37,30 @@ Indicates invalid credentials, error & success. Doesn't allow submitting empty f
 ![inventory_dark](https://user-images.githubusercontent.com/112859531/235909558-aee50271-00c8-4254-8e36-a62670afeac3.png)
 
 ## Edit Product
-### Add or remove pictures
+- Add or remove pictures
+
+![image](https://user-images.githubusercontent.com/112859531/236052631-0957f9ab-c739-4fa6-ab47-bb370c29d1a7.png)
+
+- Either browse image or paste its URL to upload.
+
+![image](https://user-images.githubusercontent.com/112859531/236053026-5618678b-0f20-4f47-9d33-dffd834596c9.png)
+
+- Edit details
+
+![image](https://user-images.githubusercontent.com/112859531/236053279-51399b08-8842-4fb3-be20-14f384cd07a1.png)
+![image](https://user-images.githubusercontent.com/112859531/236053376-8b17ef29-a10a-4e99-9ffa-92771a6de3b7.png)
+
+- Edit description
+
+![image](https://user-images.githubusercontent.com/112859531/236053462-e02a9ac0-c7b2-4cac-b4a3-eed6dd312262.png)
+
+- Edit or delete existing specifications
+
+![image](https://user-images.githubusercontent.com/112859531/236053615-386776da-ba77-496d-ac32-e988cc98397d.png)
+
+- Add new Specification
+
+![image](https://user-images.githubusercontent.com/112859531/236053710-e29012f9-c583-4a96-9636-df0be72e9d26.png)
+
 
 
